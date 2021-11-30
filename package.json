@@ -1,0 +1,22 @@
+{
+  "name": "node_ex",
+  "version": "1.0.0",
+  "description": "discription text",
+  "main": "index_i.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tinariti/sf_npm.git"
+  },
+  "author": "Tinariti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tinariti/sf_npm/issues"
+  },
+  "homepage": "https://github.com/Tinariti/sf_npm#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
